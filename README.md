@@ -1,4 +1,4 @@
-### Hi I am 👋
+### Hola soy 👋
 Brayan Rojas
 
 **BrayanRojas19/BrayanRojas19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,6 +10,5 @@ Here are some ideas to get you started:
 - 🤔 Sali del colegio Julio Sucre-San Lorenzo
 - 💬 Mi hobbi es jugar al futbol
 - 📫 Espero cumplir todas mis metas en la vida 
-- 😄 Me caracteriza ser una persona humilde 
-- ⚡ Fun fact: ...
+- 😄 Me caracteriza ser una persona humilde..
 
